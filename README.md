@@ -4,9 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SaadKhawer&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20Engineer%20%7C%20🧠%20Machine%20Learning%20%7C%20💻%20Deep%20Learning&descAlignY=58&descSize=18" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🤖+AI+%26+ML+Engineer;🧠+Building+Intelligent+Systems;💡+Turning+Data+into+Intelligence;🚀+Passionate+about+Deep+Learning" />
-</p>
 
 <h3 align="center">🚀 AI Engineer | Machine learning Explorer | Future Tech Entrepreneur</h3>
 <p align="left">

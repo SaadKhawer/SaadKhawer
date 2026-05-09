@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SaadKhawer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=22" />
 </p>
 
 <h3 align="center">🚀 AI Engineer | Machine learning Explorer | Future Tech Entrepreneur</h3>

@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDg0cTF0aDR5dmNqYjR4NXVzNjZ3a3M0YjZ5MnlkNXU0N2d0aXB4eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="800"/>
+</p>
+
 <h3 align="center">🚀 AI Engineer | Machine learning Explorer | Future Tech Entrepreneur</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=SaadKhawer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saad</h1>
 
 <h3 align="center">🚀 AI Engineer | Machine learning Explorer | Future Tech Entrepreneur</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SaadKhawer&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Explorer;Full+Stack+Developer" />
@@ -11,10 +14,10 @@
 ## 🚀 About Me
 
 - 🎯 Focus: Building AI-powered applications & modern software systems
-- 🌱 Currently Learning: Machine Learning, Deep Learning & Advanced Java
+- 🌱 Currently Learning: Machine Learning, Deep Learning & Advanced AI Automation
 - 🤝 Open To: Collaborations on AI & software projects
-- 💻 Tech Stack: Java · Python · C++ · SQL · Web Development
-- 📫 Contact Me: yourgmail@gmail.com
+- 💻 Tech Stack: Java · Python · C++ · SQL · Web Development . AI Automation
+- 📫 Contact Me: saadspam39@gmail.com
 - ☕ Fun Fact: Debugging at 2 AM feels illegal but productive 😭
 
 ---

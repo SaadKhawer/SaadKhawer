@@ -4,6 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SaadKhawer&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20Engineer%20%7C%20🧠%20Machine%20Learning%20%7C%20💻%20Deep%20Learning&descAlignY=58&descSize=18" />
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif" alt="Rehan Shoukat Banner" />
+
 
 <h3 align="center">🚀 AI Engineer | Machine learning Explorer | Future Tech Entrepreneur</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif" alt="Rehan Shoukat Banner" />
+  <img src="https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif" alt="M.Saad Banner" />
 
 
 <h3 align="center">🚀 AI Engineer | Machine learning Explorer | Future Tech Entrepreneur</h3>

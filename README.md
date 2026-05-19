@@ -20,7 +20,7 @@
 - 🎯 Focus: Building AI-powered applications & modern software systems
 - 🌱 Currently Learning: Machine Learning, Deep Learning & Advanced AI Automation
 - 🤝 Open To: Collaborations on AI & software projects
-- 💻 Tech Stack: Java · Python · C++ · SQL · Web Development . AI Automation
+- 💻 Tech Stack: Java · Python · C++ · SQL · Web Development . AI Automation . Machine learning . NLP
 - 📫 Contact Me: saadspam39@gmail.com
 - ☕ Fun Fact: Debugging at 2 AM feels illegal but productive 😭
 

@@ -35,12 +35,20 @@ I believe in:
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/SaadKhawer">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://www.linkedin.com/in/SaadKhawer" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saadspam39@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/SaadKhawer" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/SaadKhawer" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-📫 **Contact:** saadspam39@gmail.com  
 🌍 **Based in:** Pakistan
 
 ---
@@ -117,63 +125,104 @@ I believe in:
 | ⚡ Longest Streak | 6 Days (May 16 – May 21) |
 | 🗓️ Active Since | March 8, 2025 |
 | 🧠 Top Languages | Python · Java · TypeScript |
-| 📦 Projects Shipped | 7+ Real-World AI Systems |
+| 📦 Projects Shipped | 11+ Real-World AI & Software Systems |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Karigar AI — Agentic Service Platform
-End-to-end autonomous AI system that converts natural language into real service execution.
-- Agent-based reasoning pipeline
-- Auto booking + recovery system
-- Flutter + TypeScript architecture
-
----
-
-### 📰 Fake News Detection (LSTM vs RNN)
-Deep learning NLP system for classifying real vs fake news.
-- LSTM & RNN comparison
-- Full NLP preprocessing pipeline
-- Evaluation with F1, precision, recall
-
----
-
-### 🩺 Breast Cancer Prediction
-Machine learning model for medical diagnosis.
-- Multi-model benchmarking
-- Feature engineering & analysis
-- Scikit-learn pipeline
-
----
-
-### 📊 AI Skill Gap Analyzer
-CV intelligence system that maps skills to job roles.
-- NLP-based skill extraction
-- Career roadmap generator
-- Personalized learning system
-
----
-
-### 🧠 Nexus AI Assistant
+### 🧠 [Nexus AI Assistant](https://github.com/SaadKhawer/nexus-ai-assistant)
 AI-powered RAG assistant with chat, image generation & document understanding.
+- Multi-modal AI pipeline (text + image)
+- RAG-based document Q&A
+- LLM-powered intelligent responses
 
 ---
 
-### ✈️ Flight Boarding & Reservation System
-Modern flight reservation system with Java frontend & optimized backend logic.
+### 🏥 [Sehat Saathi AI](https://github.com/SaadKhawer/sehat-saathi-ai)
+AI-powered health companion for intelligent medical guidance.
+- NLP-based symptom analysis
+- Healthcare domain LLM integration
+- Patient-friendly conversational interface
 
 ---
 
-### 🏠 Real Estate Digital Platform
+### 🎵 [LSTM Music Generator](https://github.com/SaadKhawer/LSTM-Music-Generator)
+Deep learning model that composes original music using LSTM networks.
+- Sequence-to-sequence LSTM architecture
+- Music pattern learning & generation
+- Audio output pipeline
+
+---
+
+### 📚 [SmartStudy AI](https://github.com/SaadKhawer/SmartStudyAI)
+AI-powered personalized study assistant for students.
+- Adaptive learning recommendations
+- NLP-based content summarization
+- Study plan generator
+
+---
+
+### 🏢 [Enterprise Commerce Platform](https://github.com/SaadKhawer/Enterprise-Commerce-Platform)
+Full-stack scalable e-commerce solution for enterprise use.
+- Microservices architecture
+- Advanced inventory & order management
+- High-performance backend
+
+---
+
+### 💳 [Credit Scoring Model](https://github.com/SaadKhawer/Credit-Scoring-Model)
+Machine learning model for automated credit risk assessment.
+- Multi-model benchmarking (XGBoost, RF, LR)
+- Feature engineering & selection
+- Financial risk prediction pipeline
+
+---
+
+### 🩺 [Diabetes Prediction Model](https://github.com/SaadKhawer/Diabeties-prediction-model-BY-ML-)
+ML-based diabetes risk prediction system.
+- Scikit-learn classification pipeline
+- Medical data preprocessing
+- Model evaluation with precision, recall, F1
+
+---
+
+### 🏠 [Real Estate Digital Platform](https://github.com/SaadKhawer/real-estate-digital-platform)
 Scalable real estate platform for listings, tenant management & workflows.
+- Property listing & search system
+- Tenant management module
+- Full-stack web architecture
+
+---
+
+### ✈️ [Flight Boarding & Reservation System](https://github.com/SaadKhawer/flightBoardingandReservationSystem)
+Modern flight reservation system with Java frontend & optimized backend logic.
+- Seat booking & management
+- Java-based GUI frontend
+- Optimized reservation logic
+
+---
+
+### 🚗 [Car Rental System](https://github.com/SaadKhawer/car-rental-system)
+Full-featured car rental management application.
+- Vehicle inventory management
+- Booking & billing system
+- User & admin dashboard
+
+---
+
+### 🎮 [Buzz Bomber Game](https://github.com/SaadKhawer/buzz-bomber-game)
+Classic arcade-style game built from scratch.
+- Game loop & physics engine
+- Interactive gameplay mechanics
+- Score & level system
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 3× Academic Excellence Awards
-- 📜 25+ Certifications (Google, Stanford, IBM, Microsoft, NVIDIA)
+
+- 📜 5+ Certifications (Google, Stanford, IBM, Microsoft)
 - 🧪 Open-source contributor (sympy)
 
 ### 📜 Recent Certifications

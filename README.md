@@ -71,14 +71,53 @@ I believe in:
 
 ---
 
-## 📊 GitHub Stats
+## 🏷️ Skill Tags Earned Across Certifications
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SaadKhawer&show_icons=true&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-E74C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-6C3483?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-1ABC9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-F39C12?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsible%20AI-27AE60?style=for-the-badge" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadKhawer&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/AI%20Infrastructure-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Software%20Dev-2980B9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-7F8C8D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research%20Methods-5D6D7E?style=for-the-badge" />
 </p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaadKhawer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadKhawer&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadKhawer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadKhawer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35" width="96%" />
+</p>
+
+### 📈 Contribution Summary
+
+| Metric | Value |
+|--------|-------|
+| 🔥 Total Contributions | 56+ (Mar 2025 – Present) |
+| ⚡ Longest Streak | 6 Days (May 16 – May 21) |
+| 🗓️ Active Since | March 8, 2025 |
+| 🧠 Top Languages | Python · Java · TypeScript |
+| 📦 Projects Shipped | 7+ Real-World AI Systems |
 
 ---
 

@@ -222,7 +222,7 @@ Classic arcade-style game built from scratch.
 ## 🏆 Achievements & Certifications
 
 
-- 📜 5+ Certifications (Google, Stanford, IBM, Microsoft)
+- 📜 15+ Certifications (Google, Stanford, IBM, Microsoft)
 - 🧪 Open-source contributor (sympy)
 
 ### 📜 Recent Certifications
